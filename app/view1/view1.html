@@ -1,0 +1,12 @@
+
+<p>You are logged in</p>
+
+<p> If you are actually logged in there should be stuff under here </p>
+
+<div ng-show="user.authenticated">
+	<div>Welcome {{ user.first_name }}!</div>
+	<br>
+	<div> This is your theme: {{user.properties.theme.value}} </div>
+	<a href="#" ua-logout>Log Out?</a>
+</div>
+
