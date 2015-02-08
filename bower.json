@@ -1,10 +1,10 @@
 {
-  "name": "angular-seed",
-  "description": "A starter project for AngularJS",
+  "name": "loginAngular",
+  "description": "Demo of UserApp",
   "version": "0.0.0",
-  "homepage": "https://github.com/angular/angular-seed",
+  "homepage": "https://github.com/jwlai/loginAngular",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "dependencies": {
     "angular": "1.2.x",
     "angular-route": "1.2.x",
